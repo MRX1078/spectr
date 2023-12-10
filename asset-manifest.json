@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/spectr/static/css/main.8142681c.css",
+    "main.js": "/spectr/static/js/main.5d06c4c8.js",
+    "static/media/S10_021.jpg": "/spectr/static/media/S10_021.67a0d035047f15510a0a.jpg",
+    "static/media/S101_04.jpg": "/spectr/static/media/S101_04.a159490f8c827a717d29.jpg",
+    "static/media/S101_01a.jpg": "/spectr/static/media/S101_01a.727d39ea02e4c0b42f7e.jpg",
+    "static/media/S10_012.jpg": "/spectr/static/media/S10_012.b7968f65ae33c14332d0.jpg",
+    "static/media/S10_019.jpg": "/spectr/static/media/S10_019.2c34382a919d0bd600cc.jpg",
+    "static/media/S10_025.jpg": "/spectr/static/media/S10_025.4478ed7fdc007c6a465e.jpg",
+    "index.html": "/spectr/index.html",
+    "main.8142681c.css.map": "/spectr/static/css/main.8142681c.css.map",
+    "main.5d06c4c8.js.map": "/spectr/static/js/main.5d06c4c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8142681c.css",
+    "static/js/main.5d06c4c8.js"
+  ]
+}
